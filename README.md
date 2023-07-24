@@ -16,4 +16,4 @@ Fitur :
 | Konversi Tinggi Badan dan Berat Badan | Digunakan untuk membantu pengkorvesian berat badan dari kilogram ke pound dan untuk tinggi badan dari sentimeter ke feet (kaki) |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/BG-Barca.jpg?raw=true)
+![SS program](Capture.JPG)
